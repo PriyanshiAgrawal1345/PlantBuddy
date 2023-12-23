@@ -1,4 +1,4 @@
-# PlantBuddy  :seeding:
+# PlantBuddy
 An interactive gardening app encouraging users to plant, nurture, and foster a green community, featuring personalized care tracking, achievement.
 
 ## Key Features:
